@@ -17,3 +17,5 @@ de parâmetros ambientais externos, como: temperatura, umidade e qualidade do ar
 Estes parâmetros serão identificados através de sensores, os quais interagem com o arduino UNO, que possui a função de microcontrolador, e informam os dados coletados. Com as 
 informações apuradas realiza-se uma série de comparações, as quais possuem como finalidade verificar se tal ambiente está ou não em meio a um incêndio. Caso a conclusão seja 
 afirmativa, os dados são transportados ao GSM, o qual envia uma mensagem via SMS às autoridades ambientais locais reportando que o ambiente está em meio à uma queimada.
+
+https://youtu.be/otso_16DyIY
